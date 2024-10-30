@@ -1,2 +1,2 @@
-script se utiliza para reproducir un video de YouTube
+# script se utiliza para reproducir un video de YouTube
 En resumen, este script se utiliza para reproducir un video de YouTube cada hora. Genera una dirección IP ficticia (aunque no parece que tenga un propósito claro en este contexto, ya que no se utiliza de manera efectiva), abre el video en Google Chrome y mantiene un seguimiento del tiempo transcurrido. Este tipo de script podría usarse, por ejemplo, para simular una actividad en línea o en algún contexto de monitoreo. Sin embargo, es importante mencionar que abrir videos repetidamente sin interacción del usuario podría ser considerado un comportamiento no deseado en algunos entornos.
